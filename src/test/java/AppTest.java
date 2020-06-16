@@ -22,7 +22,7 @@ public class AppTest {
                 "Cold noodles x 1 = 8 yuan\n" +
                 "-----------------------------------\n" +
                 "Promotion used:\n" +
-                "Half price for certain dishes (Braised chicken，Cold noodles)，saving 13 yuan\n" +
+                "Half price for certain dishes (Braised chicken, Cold noodles)，saving 13 yuan\n" +
                 "-----------------------------------\n" +
                 "Total：25 yuan\n" +
                 "==================================="));
